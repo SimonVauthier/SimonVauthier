@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🌐 **Cartographe** en reconversion professionnelle
+🌐 **Cartographe** reconverti en **Business Analyst**
 
-🧑‍🎓En formation de **Data Analyst** 
+🧑‍🎓PowerBI/SQLServer/DAX STUDIO
 
 💡J'aime les choses concrètes et trouver des solutions à des problèmes
 
